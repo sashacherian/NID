@@ -1,0 +1,27 @@
+h3 {
+    font-family: 'Cormorant', serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 250px;
+    margin-top: 80px;
+}
+        
+        
+h2 {
+
+    font-size: 32px;
+    font-family: 'Cormorant', serif;
+    line-height:48px;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-weight: 500;
+}
+a {
+
+    font-size: 32px;
+    font-family: 'Cormorant', serif;
+    text-decoration: underline;
+    color: black;
+
+}
